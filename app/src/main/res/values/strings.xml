@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Asignacion4_CalculadoraIMC_Villanueva</string>
+    <string name="height">height</string>
+    <string name="weight">weight</string>
+    <string name="calcular">Calcular </string>
+    <string name="IMC">IMC</string>
+    <string name="range">range</string>
+</resources>
